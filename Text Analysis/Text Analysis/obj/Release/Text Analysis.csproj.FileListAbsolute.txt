@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Text Analysis\Text Analysis\obj\Release\Text Analysis.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Text Analysis\Text Analysis\obj\Release\Text Analysis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Analysis\Text Analysis\bin\Release\Text Analysis.exe.config
+C:\Users\User\source\repos\Text Analysis\Text Analysis\bin\Release\Text Analysis.exe
+C:\Users\User\source\repos\Text Analysis\Text Analysis\bin\Release\Text Analysis.pdb
+C:\Users\User\source\repos\Text Analysis\Text Analysis\obj\Release\Text Analysis.exe
+C:\Users\User\source\repos\Text Analysis\Text Analysis\obj\Release\Text Analysis.pdb
